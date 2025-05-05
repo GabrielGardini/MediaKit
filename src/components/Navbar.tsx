@@ -142,7 +142,7 @@ const Navbar: React.FC = () => {
                 className="text-slate-700 hover:text-indigo-600 transition-colors"
                 aria-label="TikTok"
               >
-                <Tiktok size={20} />
+                <Music2 size={20} />
               </a>
               <a 
                 href="mailto:gardinidev@gmail.com" 
