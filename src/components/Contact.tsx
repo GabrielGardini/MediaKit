@@ -78,7 +78,7 @@ const Contact: React.FC = () => {
           <ContactItem 
             icon={<Mail size={24} className="text-indigo-600" />}
             title="Email"
-            value="gardinidev@email.com"
+            value="gardinidev@gmail.com"
             href="mailto:gardinidev@gmail.com"
           />
           <ContactItem 
